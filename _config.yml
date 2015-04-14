@@ -1,0 +1,17 @@
+# Site settings
+title: JBS' blog
+header-img: img/home-bg.jpg
+email: jdbailliestrong_at_gmail.com
+description: "Thoughts, ideas and stories"
+baseurl: "/blog"
+url: "http://jonbstrong.com/blog"
+twitter_username: jonbstrong
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
