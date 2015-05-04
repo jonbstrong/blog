@@ -1,13 +1,13 @@
 # Site settings
-title: JBS' blog
-header-img: img/home-bg.jpg
+title: Blog
+header-img: img/home-radio.jpg
 email: jdbailliestrong_at_gmail.com
-description: "Thoughts, ideas and stories"
+description: "Thoughts, ideas and stories on startup eco-systems, tech and vagabonding"
 baseurl: "/blog"
 url: "http://jonbstrong.com/blog"
 twitter_username: jonbstrong
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+github_username:  jonbstrong
+facebook_username:  jdbstrong
 
 # Build settings
 markdown: kramdown
