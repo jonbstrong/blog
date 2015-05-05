@@ -71,7 +71,7 @@ ___
     <img src="{{ site.baseurl }}/img/blogging/jekyll-logo.png" alt="Jekyll logo">
 </div>
 
-Example: <a href="http://louiseswift.com/">Louise Swift </a>
+Example: <a href="http://rsms.me/" target="blank">Rasmus Andersson </a>
 
 This is the main blogging platform I am using and is the sole platform that can be hosted on Github. It's probably the most geeky of all of them.
 
