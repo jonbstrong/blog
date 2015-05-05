@@ -17,7 +17,7 @@ I've tried out a whole bunch of blogging platforms - Wordpress, Medium, Tumblr, 
 <span class="caption text-muted">"The most popular blogging system in use on the Web"</span>
 Examples: <a href="http://techcrunch.com/" target="blank">Tech Crunch</a> | <a href="http://www.spectacularstays.com" target="blank">Spectacular Stays</a>
 
-Wordpress is an all encompassing blogging platform that dominates online publishing, with over 20% of the world's websites using it as a content managing system (CMS) - according to [a recent interview its founder Matt Mullenberg](http://fourhourworkweek.com/2015/02/09/matt-mullenweg/). It was originally designed primarilly to allow bloggers to easily create their own platform without any knowledge of coding but due to it's popularity has grown into a multi-purpose CMS, with extensibility and plugins allowing anyone from podcasters, marketers to large comapnies using it as well.
+Wordpress is an all encompassing blogging platform that dominates online publishing, with over 20% of the world's websites using it as a content managing system (CMS) - according to [a recent interview its founder Matt Mullenberg](http://fourhourworkweek.com/2015/02/09/matt-mullenweg/). It was originally designed primarily to allow bloggers to easily create their own platform without any knowledge of coding but due to it's popularity has grown into a multi-purpose CMS, with extensibility and plugins allowing anyone from podcasters, marketers to large companies using it as well.
 
 ###Userbase/audience
 <p class="lead">Anyone and everyone. </p>Professional bloggers will probably want to stick to this one but potentially leverage other platforms by reposting elsewhere later - Medium for instance.
@@ -32,9 +32,9 @@ Wordpress is an all encompassing blogging platform that dominates online publish
 - can be time consuming to keep up-to-date, format and so on
 - Poor website speed performance and security on the most affordable option for hosting (shared). 
 
-###Recommedations
-- Go for self hosted (.org) rather than .com if you want to customize your own site, whether this be your own advertising, products or using advanced plugins
-- If you're using it for a company or brand that will scale and has security concerns, consider investing in managed hosting (Synthesis, WPEngine - or Digital Ocean for the tech savy) rather than shared - this will be much more secure.
+###Recommendations
+- Go for self hosted (.org) rather than .com if you want to customise your own site, whether this be your own advertising, products or using advanced plugins
+- If you're using it for a company or brand that will scale and has security concerns, consider investing in managed hosting (Synthesis, WPEngine - or Digital Ocean for the tech savvy) rather than shared - this will be much more secure.
 - If you're considering going down the development route, may be worth considering a widely used framework (e.g. Genesis) - this will save 	you the time of having to relearn each theme. Personally I find any theme that uses visual composer incredibly hard to manage when it comes to websites with a significant amount of content.
 - If you'd like to use the same theme as someone else's, use [this chrome extension](https://chrome.google.com/webstore/detail/wpsniffer/kihhefcbenhkjgjhchanjfhhflaojldn) or view the source code and search for 'theme'
 
@@ -80,7 +80,7 @@ This is the main blogging platform I am using and is the sole platform that can 
 </div>
 
 ###Pros
-- Hardly any secutiry concerns
+- Hardly any security concerns
 - you can blog offline, schedule a script to run and sync whenever online
 - Can be hosted for free on Github
 - Fast to load
@@ -121,12 +121,12 @@ All sorts, but many people within the tech & startup scene who were the early ad
 
 ###Cons
 - Readers tend to stay on the platform rather than following any Call To Action
-- Nearly no way to customize
+- Nearly no way to customise
 
 ###Recommendations
 - Use publications or contact the owners of large ones ([here's an out of date list](http://foorious.com/etc/list-of-medium-collections/)) to be featured there to get more views
 - Share drafts of your posts with others - when they comment and you share the post afterwards, their twitter handles will all be mentioned & they will naturally repost
-- Medium can be used to repost your own content originally hosted elswhere
+- Medium can be used to repost your own content originally hosted elsewhere
 
 ____
 
@@ -136,7 +136,7 @@ ____
 </div>
 Examples: <a href="http://blakemasters.com/" target="blank">Notes on Peter Thiel's lectures</a> | <a href="http://lucasjgordon.com/" target="blank">Lucas Gordon's blog</a> | <a href="http://slackhq.com/" target="blank">Slack HQ</a>
 
-Tumblr is a micro blogging platform where again like Medium, you don't get the SEO juice that a self hosted platform offers, but it does provide an incredibly simple blogging platform that allows you to quickly share small snipits - which can be in the form of photos, gifs, video or otherwise. It allows you to repost other content, so in essence a micro blogging version of twitter.
+Tumblr is a micro blogging platform where again like Medium, you don't get the SEO juice that a self hosted platform offers, but it does provide an incredibly simple blogging platform that allows you to quickly share small snippets - which can be in the form of photos, gifs, video or otherwise. It allows you to repost other content, so in essence a micro blogging version of twitter.
 
 ###Userbase/Audience
 Wide but popular with hipsters, young subcultures and surprisingly widespread in Brazil - the majority of [offline meetups](https://www.tumblr.com/meetups) appear to take place there.
@@ -144,7 +144,7 @@ Wide but popular with hipsters, young subcultures and surprisingly widespread in
 ###Pros
 - Free
 - Easy to set up
-- Allows you to customize the look & feel more than Medium
+- Allows you to customise the look & feel more than Medium
 
 ###Cons
 - Content doesn't belong to you
@@ -155,6 +155,6 @@ Tumblr allows you to point your own domain or subdomain (blog.yourdomain.com) th
 
 ___
 
-There are more I could have mentioned - svutle for instance, ([Maptia](http://www.maptia.com)) (essentially Medium for non-profits & travel bloggers/photogrpahers), ([blogger](http://www.blogger.com)), typepad (where [Seth Godin's blog](http://sethgodin.typepad.com/) is hosted) and countless others. 
+There are more I could have mentioned - svbtle for instance, ([Maptia](http://www.maptia.com)) (essentially Medium for non-profits & travel bloggers/photogprahers), ([blogger](http://www.blogger.com)), typepad (where [Seth Godin's blog](http://sethgodin.typepad.com/) is hosted) and countless others. 
 
-At the end of the day, it comes down to your intended audience, your preferred workflow and what you're most comfertable working with - in my case I already had a homepage hosted on Github, wanted something I could eaily set up as a /blog subdirectory and liked the facility that Jekyll offered of offline blogging so that was the easy choice.
+At the end of the day, it comes down to your intended audience, your preferred workflow and what you're most comfortable working with - in my case I already had a homepage hosted on Github, wanted something I could eaily set up as a /blog subdirectory and liked the facility that Jekyll offered of offline blogging so that was the easy choice.
