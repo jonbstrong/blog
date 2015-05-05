@@ -94,7 +94,7 @@ This is the main blogging platform I am using and is the sole platform that can 
 **Programmers!**
 
 ###Recommendations
-If using Jekyll for blogging it may be worth using <a href="http://bywordapp.com/" target="blank"> bywordapp.com</a> (or a load of other alternatives) as a text editor which allows you to write drafts in markdown. I'm currently using a jekyll theme which incorporates bootstrap which means I can use elements of the design framework I'm most familiar with, including [typography](http://getbootstrap.com/css/#type-body-copy) such as <mark>highlights</mark>, <del>deleted text</del> and so on.
+If using Jekyll for blogging it may be worth using <a href="http://bywordapp.com/" target="blank"> bywordapp.com</a> (or a load of other alternatives) as a text editor which allows you to write drafts in markdown. I'm currently using a jekyll theme which incorporates bootstrap which means I can use elements of the development framework I'm most familiar with, including [typography](http://getbootstrap.com/css/#type-body-copy) such as <mark>highlights</mark>, <del>deleted text</del> and so on.
 
 ___
 
