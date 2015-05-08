@@ -43,7 +43,7 @@ You then need to login to mailinator with your gmail account, head over to <a hr
     <img src="{{ site.baseurl }}/img/hacks/mailinator-settings.png" alt="Mailinator settings">
 </div>
 
-<p align="center">Once you've done that, you're good to go - every email address with your custom domain will appear in your own private inbox on mailinator - simply check the account when logged in with gmail</p>
+Once you've done that, you're good to go - every email address with your custom domain will appear in your own private inbox on mailinator - simply check the account when logged in with gmail.
 
 <div align="center">
     <img src="{{ site.baseurl }}/img/hacks/pressing-something.gif" alt="Happy geek">
