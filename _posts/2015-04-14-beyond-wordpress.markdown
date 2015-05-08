@@ -8,7 +8,7 @@ author:     "Jonathan Baillie Strong"
 header-img: "img/home-bg.jpg"
 ---
 
-I've tried out a whole bunch of blogging platforms - Wordpress, Medium, Tumblr, Ghost and now Jekyll. They all have their own quirks and each one is more suited to different intents & audiences. Here's a quick rundown with the pros and cons I've found for each. I've split this post into Two types of blogging platforms - those that are self hosted, where you own all of the rights to your content, and externally hosted platforms where you don't.
+Well I've tried out a whole bunch of blogging platforms - Wordpress, Medium, Tumblr, Ghost and now Jekyll. They all have their own quirks and each one is more suited to different intents & audiences. Here's a quick rundown with the pros and cons I've found for each. I've split this post into Two types of blogging platforms - those that are self hosted, where you own all of the rights to your content, and externally hosted platforms where you don't.
 
 #Self hosted platforms
 <div align="center">
