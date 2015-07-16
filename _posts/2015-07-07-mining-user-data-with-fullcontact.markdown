@@ -3,7 +3,7 @@ layout:     post
 title:      "Mining User Data with Google Sheets"
 subtitle:   "Harnessing the power of the Full Contact API"
 category:	"data"
-date:       2015-05-08 22:00:00
+date:       2015-07-07 22:00:00
 author:     "Jonathan Baillie Strong"
 header-img: "img/fullcontact/users.png"
 ---
