@@ -20,6 +20,4 @@ Here's a preview of it in action:
     <img src="{{ site.baseurl }}/img/fullcontact/fullcontactapi.gif" alt="Executing the spreadsheet script for full contact">
 </div>
 
-One of the limitations with the full contact API that users may run in to is that it will only allow for 250 free matches per account per month. A way some people use to avoid this limitation is to [create multiple user accounts using dummy email addresses I have previously described](jonbstrong.com/blog/hacks/2015/05/08/infinite-email-addresses/).
-
 Other alternatives to Full Contact API are also discussed on [the Growth Hackers website](https://growthhackers.com/questions/ask-gh-now-that-stacklead-is-gone-what-other-tools-will-tell-you-who-is-on-your-email-list/).
